@@ -1,0 +1,8 @@
+langextract
+google-generativeai
+requests
+beautifulsoup4
+PyMuPDF
+pandas
+python-dotenv
+boto3
